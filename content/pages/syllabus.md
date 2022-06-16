@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains the course outline and information on homework,
+  term projects, exams, grading criteria, and the textbook.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

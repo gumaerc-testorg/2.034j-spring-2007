@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a general list of references. There is no required
+  textbook as the subject is based on the material presented in the lectures.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
