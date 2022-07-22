@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a general list of references. There is no required
+  textbook as the subject is based on the material presented in the lectures.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b172423d-7700-fbd2-d588-38bf64d339a9
 ---
