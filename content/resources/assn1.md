@@ -5,6 +5,7 @@ file: /courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/b62758861920b77fe
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: b6275886-1920-b77f-e4d4-064aeeed1d7c
 ---
 This resource contains a problem set for the course.
-
