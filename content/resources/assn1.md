@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set for the course.
-file: /courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/b62758861920b77fe4d4064aeeed1d7c_assn1.pdf
+file: /ol-ocw-studio-app/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/b62758861920b77fe4d4064aeeed1d7c_assn1.pdf
 file_size: 211080
 file_type: application/pdf
 learning_resource_types:
